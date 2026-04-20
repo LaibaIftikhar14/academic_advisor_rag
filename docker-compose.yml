@@ -1,0 +1,51 @@
+# docker-compose.yml
+# ─────────────────────────────────────────────
+# Runs TWO services together:
+#   1. backend  — FastAPI app
+#   2. ollama   — Local LLM engine
+# ─────────────────────────────────────────────
+
+version: '3.8'
+
+services:
+
+  # ── Ollama LLM Engine ──────────────────────
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"       # Ollama API port
+    volumes:
+      - ollama_data:/root/.ollama   # persist downloaded models
+    restart: unless-stopped
+
+  # ── FastAPI Backend ────────────────────────
+  backend:
+    build: .
+    container_name: advisor_backend
+    ports:
+      - "8000:8000"
+    environment:
+      # Override Ollama URL to use container name
+      - OLLAMA_URL=http://ollama:11434/api/chat
+    depends_on:
+      - ollama      # backend starts after ollama
+    restart: unless-stopped
+
+# Persistent volume for Ollama models
+volumes:
+  ollama_data:
+```
+
+---
+
+## FILE 3: `.dockerignore`
+Create this in your **root folder** — stops unnecessary files going into the container:
+```
+node_modules
+frontend
+__pycache__
+*.pyc
+.env
+.git
+tests

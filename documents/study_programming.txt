@@ -1,0 +1,36 @@
+How to Study Programming and Computer Science
+
+Programming is a practical skill that requires consistent hands-on practice.
+
+Daily coding practice:
+- Code for at least 1 hour every day
+- Work on small projects related to your courses
+- Use coding challenge platforms (LeetCode, HackerRank)
+- Read other people's code on GitHub
+
+Debugging skills:
+- Read error messages carefully - they tell you exactly what is wrong
+- Use print statements to trace program execution
+- Use a debugger tool in your IDE
+- Google the error message - someone has faced it before
+- Rubber duck debugging: explain your code out loud
+
+Learning new concepts:
+1. Read the theory and understand it conceptually
+2. Study a simple example carefully
+3. Implement the example yourself without looking
+4. Modify the example in small ways
+5. Build a small project using the concept
+
+Project-based learning:
+- Build projects that interest you personally
+- Start small and add features gradually
+- Use version control (Git) from the beginning
+- Document your code as you write it
+
+Resources for programming students:
+- Official documentation is always the best source
+- Stack Overflow for specific problems
+- GitHub for open source project examples
+- YouTube for visual explanations
+- Peer code review for feedback

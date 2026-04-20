@@ -1,0 +1,6 @@
+Course: MATH201 - Linear Algebra
+Credits: 3
+Description: Vectors, matrices, systems of linear equations, eigenvalues, eigenvectors, and linear transformations. Applications in computer science and engineering.
+Prerequisites: MATH101
+Assessment: 25% assignments, 35% midterm, 40% final
+Tips: Visualize concepts geometrically. Practice matrix operations by hand. Connect concepts to their CS applications.

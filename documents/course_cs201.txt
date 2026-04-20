@@ -1,0 +1,6 @@
+Course: CS201 - Data Structures and Algorithms
+Credits: 3
+Description: Covers fundamental data structures including arrays, linked lists, stacks, queues, trees, and graphs. Algorithm analysis using Big-O notation. Sorting and searching algorithms.
+Prerequisites: CS101
+Assessment: 25% assignments, 35% midterm, 40% final exam
+Tips: Draw diagrams to understand data structures. Practice on LeetCode and HackerRank. Start assignments early.

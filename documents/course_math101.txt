@@ -1,0 +1,6 @@
+Course: MATH101 - Calculus I
+Credits: 3
+Description: Limits, derivatives, integrals, and their applications. Fundamental theorem of calculus. Techniques of integration.
+Prerequisites: High school mathematics
+Assessment: 30% assignments, 30% midterm, 40% final
+Tips: Practice problems daily. Do not skip steps. Form study groups. Use office hours regularly.

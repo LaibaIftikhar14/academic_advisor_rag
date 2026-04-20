@@ -1,0 +1,6 @@
+Course: CS402 - Machine Learning
+Credits: 3
+Description: Supervised and unsupervised learning, regression, classification, clustering, model evaluation, and deep learning fundamentals. Python with scikit-learn and TensorFlow.
+Prerequisites: CS401, MATH301
+Assessment: 40% projects, 20% midterm, 40% final
+Tips: Focus on understanding intuition behind algorithms. Implement algorithms from scratch before using libraries.

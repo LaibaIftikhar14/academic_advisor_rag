@@ -1,0 +1,6 @@
+Course: CS302 - Operating Systems
+Credits: 3
+Description: Process management, memory management, file systems, concurrency, and distributed systems. Hands-on lab work with Linux.
+Prerequisites: CS201
+Assessment: 30% labs, 30% midterm, 40% final
+Tips: Use Linux daily. Understand processes and threads deeply. The labs are essential for understanding theory.

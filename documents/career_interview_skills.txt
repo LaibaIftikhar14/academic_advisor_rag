@@ -1,0 +1,41 @@
+Job Interview Preparation Guide
+
+Types of interviews:
+- Phone screening: 15-30 minutes, basic qualification check
+- Technical interview: Coding challenges, problem solving
+- Behavioral interview: Past experience and soft skills
+- Case interview: Business problem solving (consulting)
+- Panel interview: Multiple interviewers simultaneously
+
+Technical interview preparation:
+- Practice data structures and algorithms daily
+- Use LeetCode, HackerRank, and Codeforces
+- Study system design for senior positions
+- Practice explaining your thought process out loud
+- Review your past projects thoroughly
+
+Behavioral interview (STAR method):
+- Situation: Set the context
+- Task: Describe your responsibility
+- Action: Explain what you did specifically
+- Result: Share the measurable outcome
+
+Common behavioral questions:
+- Tell me about a time you faced a challenge
+- Describe a situation where you worked in a team
+- How do you handle conflicting priorities?
+- Tell me about your greatest achievement
+- Describe a time you made a mistake and how you handled it
+
+Day of the interview:
+- Arrive or log in 10-15 minutes early
+- Dress professionally (research company dress code)
+- Bring copies of your resume
+- Have questions prepared for the interviewer
+- Send a thank you email within 24 hours
+
+Salary negotiation:
+- Research market salary ranges before negotiating
+- Never give a number first if possible
+- Consider the full package: salary, benefits, growth
+- It is always appropriate to negotiate - companies expect it

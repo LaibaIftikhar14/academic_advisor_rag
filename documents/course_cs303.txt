@@ -1,0 +1,6 @@
+Course: CS303 - Computer Networks
+Credits: 3
+Description: Network protocols, TCP/IP, routing, network security, and socket programming. Students build networked applications.
+Prerequisites: CS302
+Assessment: 25% assignments, 25% project, 50% exams
+Tips: Understand the OSI model thoroughly. Practice socket programming. Use Wireshark for packet analysis.

@@ -1,0 +1,6 @@
+Course: ENG101 - English Composition
+Credits: 3
+Description: Academic writing skills, essay structure, research methods, citation styles, and critical thinking. Students write multiple essays and a research paper.
+Prerequisites: None
+Assessment: 50% assignments, 20% midterm essay, 30% final research paper
+Tips: Start writing early. Visit the writing center for feedback. Read widely to improve vocabulary and style.

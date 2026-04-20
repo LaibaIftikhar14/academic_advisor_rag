@@ -1,0 +1,6 @@
+Course: CS403 - Computer Security
+Credits: 3
+Description: Cryptography, network security, web security, malware analysis, and ethical hacking fundamentals. Hands-on security labs.
+Prerequisites: CS303
+Assessment: 30% labs, 30% midterm, 40% final
+Tips: Set up a home lab. Practice in safe environments only. Follow ethical guidelines strictly.

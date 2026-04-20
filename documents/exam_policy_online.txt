@@ -1,0 +1,18 @@
+Online Examination Policy
+
+For online examinations conducted through the university learning management system:
+
+Technical requirements:
+- Stable internet connection
+- Working webcam and microphone
+- Updated browser (Chrome or Firefox recommended)
+- No VPN or proxy services during the exam
+
+Proctoring rules:
+- Students must be visible on camera throughout the exam
+- No other people are permitted in the exam room
+- No additional screens or devices may be used
+- Students must show their ID to the camera before starting
+
+Technical issues:
+If you experience technical difficulties during an online exam, immediately contact the IT helpdesk and your instructor. Document all issues with screenshots. Technical issues do not automatically grant extra time unless approved by the instructor.

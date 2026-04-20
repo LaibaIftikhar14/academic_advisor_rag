@@ -1,0 +1,22 @@
+Plagiarism Detection and Prevention Policy
+
+The university uses advanced plagiarism detection software for all submitted assignments and papers. This software compares submissions against:
+- Previously submitted student work
+- Published academic papers and journals
+- Online sources and websites
+- AI-generated content databases
+
+Acceptable use of sources:
+- All sources must be properly cited using the required citation style
+- Direct quotes must be in quotation marks with page numbers
+- Paraphrasing requires citation even if words are changed
+- Ideas taken from others must be attributed
+
+AI-generated content:
+- Using AI tools to generate assignment content without disclosure is considered plagiarism
+- Students must disclose any AI assistance used in their work
+- The extent of AI use must be appropriate to the assignment guidelines
+
+First offense: Zero on the assignment
+Second offense: Fail the course
+Third offense: Academic suspension

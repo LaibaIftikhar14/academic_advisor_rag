@@ -1,0 +1,6 @@
+Course: CS304 - Software Engineering
+Credits: 3
+Description: Software development lifecycle, requirements engineering, design patterns, testing, and project management. Team-based software project.
+Prerequisites: CS201
+Assessment: 50% group project, 20% midterm, 30% final
+Tips: Communicate well with your team. Document everything. Start the project early and iterate frequently.

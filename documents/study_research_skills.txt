@@ -1,0 +1,36 @@
+Research Skills for University Students
+
+Strong research skills are essential for assignments, projects, and dissertations.
+
+Finding reliable sources:
+- Peer-reviewed academic journals (highest credibility)
+- Books published by academic publishers
+- Government and official organization websites
+- News sources for recent events
+- Wikipedia for background only - never cite it directly
+
+Database searching tips:
+- Use Boolean operators: AND, OR, NOT
+- Use quotation marks for exact phrases
+- Use * for wildcard searches
+- Filter by publication date for recent research
+- Access databases through your university library
+
+Evaluating sources (CRAAP test):
+- Currency: When was it published?
+- Relevance: Does it relate to your topic?
+- Authority: Who wrote it and what are their credentials?
+- Accuracy: Is it supported by evidence?
+- Purpose: Why was it written?
+
+Citation management:
+- Use Zotero or Mendeley to organize sources
+- Save full citation information immediately
+- Note page numbers for direct quotes
+- Follow the required citation style exactly (APA, MLA, Chicago)
+
+Avoiding plagiarism in research:
+- Always attribute ideas to their sources
+- Paraphrase in your own words and cite
+- Use direct quotes sparingly
+- Keep notes on where each piece of information came from

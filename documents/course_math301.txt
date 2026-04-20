@@ -1,0 +1,6 @@
+Course: MATH301 - Probability and Statistics
+Credits: 3
+Description: Probability theory, random variables, distributions, hypothesis testing, regression analysis, and statistical inference.
+Prerequisites: MATH201
+Assessment: 30% assignments, 30% midterm, 40% final
+Tips: Understand the intuition behind probability. Work through many practice problems. Connect theory to real examples.

@@ -1,0 +1,37 @@
+Computer Science Specialization Guide
+
+Artificial Intelligence and Machine Learning:
+- Required skills: Python, mathematics, statistics, ML frameworks
+- Career paths: ML Engineer, Data Scientist, AI Researcher
+- Key courses: CS401, CS402, MATH301
+- Industry demand: Very high and growing
+
+Web Development:
+- Frontend: HTML, CSS, JavaScript, React, Angular
+- Backend: Node.js, Python/Django, Java/Spring
+- Full-stack: Both frontend and backend
+- Career paths: Web Developer, Full Stack Engineer
+- Industry demand: Consistently high
+
+Cybersecurity:
+- Required skills: Networking, operating systems, cryptography, ethical hacking
+- Career paths: Security Analyst, Penetration Tester, Security Engineer
+- Certifications: Security+, CEH, OSCP
+- Industry demand: Very high due to increasing cyber threats
+
+Cloud Computing:
+- Platforms: AWS, Google Cloud, Microsoft Azure
+- Skills: Containerization, orchestration, distributed systems
+- Career paths: Cloud Engineer, DevOps Engineer, Site Reliability Engineer
+- Industry demand: Extremely high
+
+Data Engineering:
+- Skills: SQL, Python, Spark, Hadoop, ETL pipelines
+- Career paths: Data Engineer, Analytics Engineer, Data Architect
+- Industry demand: High as organizations become more data-driven
+
+Mobile Development:
+- iOS: Swift, Xcode
+- Android: Kotlin, Android Studio
+- Cross-platform: React Native, Flutter
+- Career paths: Mobile Developer, App Developer

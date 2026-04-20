@@ -1,0 +1,6 @@
+Course: CS401 - Artificial Intelligence
+Credits: 3
+Description: Introduction to AI concepts including search algorithms, knowledge representation, machine learning basics, neural networks, and natural language processing.
+Prerequisites: CS301, MATH201
+Assessment: 30% assignments, 30% midterm, 40% final
+Tips: Mathematics is crucial. Review linear algebra and probability. Work through examples step by step.

@@ -1,0 +1,33 @@
+Online Learning Resources for University Students
+
+Free academic resources available to students:
+
+Video Learning:
+- Khan Academy: Mathematics, science, and humanities
+- Coursera: University courses (audit for free)
+- MIT OpenCourseWare: Full MIT course materials
+- YouTube channels: 3Blue1Brown (math), Crash Course, Professor Leonard
+
+Programming Resources:
+- freeCodeCamp: Web development and programming
+- LeetCode: Coding interview practice
+- HackerRank: Programming challenges
+- GitHub Student Pack: Free developer tools
+
+Research and Reading:
+- Google Scholar: Academic papers
+- JSTOR: Academic journals (check university access)
+- Semantic Scholar: AI-powered research tool
+
+Productivity Tools:
+- Notion: Notes and project management
+- Anki: Spaced repetition flashcards
+- Forest App: Focus and productivity
+- Grammarly: Writing assistance
+- Zotero: Citation management
+
+Mathematics:
+- Wolfram Alpha: Calculations and explanations
+- Desmos: Graphing calculator
+- Paul's Online Math Notes: Calculus and algebra
+- Symbolab: Step-by-step math solutions

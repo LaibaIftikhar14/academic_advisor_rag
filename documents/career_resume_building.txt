@@ -1,0 +1,37 @@
+Resume Building for University Students
+
+A strong resume is your ticket to internships and jobs. Here is a complete guide.
+
+Resume sections (in order):
+1. Contact information (name, email, phone, LinkedIn, GitHub)
+2. Education (university, degree, GPA if above 3.0, graduation date)
+3. Technical skills (programming languages, tools, frameworks)
+4. Work experience (internships, part-time jobs, research)
+5. Projects (personal and academic projects)
+6. Activities and leadership (clubs, volunteering)
+
+Writing bullet points:
+- Start with strong action verbs (built, designed, implemented, led)
+- Quantify achievements when possible (increased efficiency by 30%)
+- Focus on impact, not just tasks performed
+- Keep each bullet to one or two lines maximum
+
+Common mistakes:
+- Including a photo (not appropriate in most countries)
+- Using decorative fonts or excessive colors
+- Including irrelevant personal information (age, marital status)
+- Listing references on the resume itself
+- Having typos or grammatical errors (automatic rejection)
+- Using generic objective statements
+
+Tailoring your resume:
+- Read the job description carefully
+- Include keywords from the job posting
+- Emphasize most relevant experience for each application
+- Adjust technical skills section to match required technologies
+
+Getting feedback:
+- University career center offers free resume reviews
+- Ask professors and industry professionals for feedback
+- Have peers proofread for errors
+- Use the career center's resume templates as starting point

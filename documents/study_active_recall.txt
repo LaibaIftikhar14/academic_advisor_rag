@@ -1,0 +1,29 @@
+Active Recall - The Most Effective Study Technique
+
+Active recall is the practice of actively stimulating memory during the learning process. Research shows it is significantly more effective than passive reading or highlighting.
+
+How to practice active recall:
+1. Read a section of your textbook or notes
+2. Close the book
+3. Try to recall everything you just read from memory
+4. Check what you got right and wrong
+5. Repeat for the parts you forgot
+
+Flashcard method:
+- Write questions on one side, answers on the other
+- Use Anki or physical flashcards
+- Review cards daily using spaced repetition
+- Create cards for definitions, formulas, concepts, and processes
+
+The Feynman Technique:
+1. Choose a concept you want to learn
+2. Explain it in simple terms as if teaching a child
+3. Identify gaps in your explanation
+4. Go back to the source material and fill those gaps
+5. Simplify your explanation further
+
+Practice testing:
+- Use past exam papers
+- Create your own test questions
+- Answer questions under timed conditions
+- Review mistakes carefully and understand why you got them wrong

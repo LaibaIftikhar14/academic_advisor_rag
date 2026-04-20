@@ -1,0 +1,6 @@
+Course: CS405 - Computer Vision
+Credits: 3
+Description: Image processing, feature extraction, object detection, image segmentation, and deep learning for vision tasks.
+Prerequisites: CS402
+Assessment: 40% projects, 20% midterm, 40% final
+Tips: Implement algorithms on real images. Use OpenCV for practice. Kaggle competitions are great for experience.

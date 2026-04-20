@@ -1,0 +1,6 @@
+Course: CS101 - Introduction to Programming
+Credits: 3
+Description: This course introduces students to the fundamentals of programming using Python. Topics include variables, data types, control structures, functions, and basic object-oriented programming. Students will complete weekly lab assignments and a final project.
+Prerequisites: None
+Assessment: 30% assignments, 30% midterm, 40% final exam
+Tips: Attend all lab sessions. Practice coding daily. Use online resources like Python documentation and Stack Overflow.

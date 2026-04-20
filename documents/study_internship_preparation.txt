@@ -1,0 +1,38 @@
+Preparing for Internships and Career Development
+
+University is the best time to prepare for your professional career.
+
+Building your resume:
+- Include relevant coursework and projects
+- List technical skills clearly
+- Include any volunteer or part-time work experience
+- Keep it to one page for early career
+- Tailor your resume for each application
+
+Portfolio development:
+- Create a GitHub profile with your best projects
+- Write documentation for each project
+- Include variety: web apps, algorithms, data analysis
+- Contribute to open source projects
+- Build a personal website
+
+Internship search strategies:
+- Start applying 6 months before the internship period
+- Use LinkedIn, Indeed, and company websites
+- Attend university career fairs
+- Network with alumni through university programs
+- Ask professors for industry connections
+
+Interview preparation:
+- Practice common technical interview questions
+- Review data structures and algorithms
+- Practice system design questions for senior roles
+- Prepare behavioral answers using STAR method
+- Research the company thoroughly before interviews
+
+Professional networking:
+- LinkedIn profile with professional photo
+- Connect with classmates, professors, and professionals
+- Attend industry events and meetups
+- Join relevant professional organizations
+- Follow companies and thought leaders in your field

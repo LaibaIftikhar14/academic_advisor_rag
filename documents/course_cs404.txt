@@ -1,0 +1,6 @@
+Course: CS404 - Natural Language Processing
+Credits: 3
+Description: Text processing, language models, sentiment analysis, machine translation, and conversational AI. Python with NLTK and transformers.
+Prerequisites: CS402
+Assessment: 40% projects, 20% midterm, 40% final
+Tips: Read research papers. Implement models from scratch. Experiment with Hugging Face transformers library.

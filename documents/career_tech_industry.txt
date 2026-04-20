@@ -1,0 +1,33 @@
+Navigating the Technology Industry as a CS Student
+
+Major technology company tiers:
+- Tier 1: FAANG (Facebook/Meta, Apple, Amazon, Netflix, Google) + Microsoft
+- Tier 2: Uber, Airbnb, Stripe, Snowflake, and other large tech companies
+- Tier 3: Mid-size tech companies and fast-growing startups
+- Tier 4: Small startups and local tech companies
+
+Each tier offers different experiences:
+- Tier 1: Highest compensation, structured programs, large scale problems
+- Tier 2: Good compensation, interesting technical challenges
+- Tier 3: More responsibility, equity potential, faster growth
+- Tier 4: Broad experience, potentially significant equity upside
+
+Technology roles for CS graduates:
+- Software Engineer: Building products and features
+- Data Scientist: Analyzing data and building models
+- Machine Learning Engineer: Production ML systems
+- DevOps/Cloud Engineer: Infrastructure and deployment
+- Security Engineer: Protecting systems and data
+- Product Manager: Defining what to build (often requires experience)
+
+Compensation understanding:
+- Base salary, bonus, and equity (stock) make up total compensation
+- RSUs (Restricted Stock Units) vest over 4 years typically
+- Negotiate all three components
+- Use levels.fyi for compensation benchmarks
+
+Industry certifications:
+- AWS, Google Cloud, or Azure certification valuable for cloud roles
+- Cybersecurity: CompTIA Security+, CEH, CISSP
+- Data: Google Data Analytics, IBM Data Science
+- Project Management: PMP (after gaining experience)

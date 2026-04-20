@@ -1,0 +1,6 @@
+Course: CS301 - Database Systems
+Credits: 3
+Description: Introduction to relational databases, SQL, database design, normalization, transactions, and indexing. Students build a complete database application as a final project.
+Prerequisites: CS201
+Assessment: 20% assignments, 20% project, 30% midterm, 30% final
+Tips: Practice SQL daily. Understand normalization thoroughly. Work on the project consistently throughout the semester.

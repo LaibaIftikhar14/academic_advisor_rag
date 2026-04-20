@@ -1,0 +1,29 @@
+Professional Ethics and Workplace Conduct
+
+Professional ethics in technology:
+- Data privacy: Handle user data with care and respect
+- Security: Never compromise security for convenience
+- Intellectual property: Respect copyright and licenses
+- Conflict of interest: Disclose and avoid conflicts
+- Honesty: Be truthful about capabilities, timelines, and problems
+
+Code of professional conduct:
+- Deliver work on time and communicate delays early
+- Write clean, documented, maintainable code
+- Do not take credit for others work
+- Respect confidential information
+- Follow company policies and legal regulations
+
+Work-life balance:
+- Sustainable pace is more productive long-term
+- Set boundaries around working hours
+- Take all your vacation time
+- Disconnect from work during personal time
+- Recognize burnout early in yourself and others
+
+Diversity and inclusion:
+- Treat all colleagues with equal respect
+- Call out discriminatory behavior professionally
+- Support diversity initiatives in your workplace
+- Be aware of unconscious bias in hiring and promotions
+- Mentor individuals from underrepresented groups
