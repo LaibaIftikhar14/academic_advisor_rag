@@ -356,5 +356,6 @@ pip install langchain langchain-community pydantic sympy pypdf
 ```bash
 curl "http://localhost:8000/rag/search?query=exam attendance policy"
 ```
-
+### Postman 
+https://i236102-7322480.postman.co/workspace/Zara-Ali's-Workspace~b63bc304-3fa6-423b-8f41-d6cf20ab28a7/collection/54153054-bf124066-7dd3-4770-8ec8-db9638fb51c4?action=share&source=copy-link&creator=54153054
 Or visit: `http://localhost:8000/rag/search?query=how to study for exams`
