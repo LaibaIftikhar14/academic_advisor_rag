@@ -3,6 +3,10 @@
 A fully local, production-style conversational AI system built with FastAPI, React, and a quantized LLM running on CPU. No cloud APIs. No external tools. Pure prompt engineering and conversation memory.
 
 ---
+## group
+zara ali 23i-6102
+laiba iftikhar 23i-0099
+kaiwan shahid 23i-2513
 
 ## System Architecture
 ```
